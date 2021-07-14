@@ -240,7 +240,7 @@ proView Sensor
 <img src="interfaces.PNG"> -- позволяет просмотреть состояние сетевых интерфейсов
 </p>
 <h3>3.1 Смена языка</h3>
-<img src="lang.PNG"><br /><br />
+<img src="Снимок1.PNG"><br /><br />
 <img src="lang3.png"><br /><br />
 <img src="lang4.png"><br>
 <h3>3.2 Лицензия</h3>
